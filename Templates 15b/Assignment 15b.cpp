@@ -8,7 +8,7 @@ int main()
 {
 	double a = 7.0;
 	float b = 5.0f;
-	int c = 17;
+	int c = 3;
 
 	cout << setprecision(2);
 	cout << half(a) << endl;
