@@ -130,7 +130,7 @@
     <ClInclude Include="Template(15b).h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Template(15b).cpp" />
+    <ClCompile Include="Assignment 15b.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
